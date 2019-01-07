@@ -1,0 +1,1 @@
+C:\Projects\Xamarin\XAM205\Exercise 2\Completed\Astronomy.UWP\Astronomy.UWP.csproj;x86

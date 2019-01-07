@@ -1,0 +1,16 @@
+C:\Projects\Xamarin\XAM205\Exercise 2\Completed\Astronomy\bin\Debug\netstandard1.1\Astronomy.deps.json
+C:\Projects\Xamarin\XAM205\Exercise 2\Completed\Astronomy\bin\Debug\netstandard1.1\Astronomy.dll
+C:\Projects\Xamarin\XAM205\Exercise 2\Completed\Astronomy\bin\Debug\netstandard1.1\Astronomy.pdb
+C:\Projects\Xamarin\XAM205\Exercise 2\Completed\Astronomy\obj\Debug\netstandard1.1\Astronomy.csproj.CoreCompileInputs.cache
+C:\Projects\Xamarin\XAM205\Exercise 2\Completed\Astronomy\obj\Debug\netstandard1.1\Astronomy.App.xaml.g.cs
+C:\Projects\Xamarin\XAM205\Exercise 2\Completed\Astronomy\obj\Debug\netstandard1.1\Astronomy.MainPage.xaml.g.cs
+C:\Projects\Xamarin\XAM205\Exercise 2\Completed\Astronomy\obj\Debug\netstandard1.1\Astronomy.Pages.AboutPage.xaml.g.cs
+C:\Projects\Xamarin\XAM205\Exercise 2\Completed\Astronomy\obj\Debug\netstandard1.1\Astronomy.Pages.AstronomicalBodiesPage.xaml.g.cs
+C:\Projects\Xamarin\XAM205\Exercise 2\Completed\Astronomy\obj\Debug\netstandard1.1\Astronomy.Pages.AstronomicalBodyPage.xaml.g.cs
+C:\Projects\Xamarin\XAM205\Exercise 2\Completed\Astronomy\obj\Debug\netstandard1.1\Astronomy.Pages.MoonPhasePage.xaml.g.cs
+C:\Projects\Xamarin\XAM205\Exercise 2\Completed\Astronomy\obj\Debug\netstandard1.1\Astronomy.Pages.PersonalisePage.xaml.g.cs
+C:\Projects\Xamarin\XAM205\Exercise 2\Completed\Astronomy\obj\Debug\netstandard1.1\Astronomy.Pages.SunrisePage.xaml.g.cs
+C:\Projects\Xamarin\XAM205\Exercise 2\Completed\Astronomy\obj\Debug\netstandard1.1\Astronomy.AssemblyInfoInputs.cache
+C:\Projects\Xamarin\XAM205\Exercise 2\Completed\Astronomy\obj\Debug\netstandard1.1\Astronomy.AssemblyInfo.cs
+C:\Projects\Xamarin\XAM205\Exercise 2\Completed\Astronomy\obj\Debug\netstandard1.1\Astronomy.dll
+C:\Projects\Xamarin\XAM205\Exercise 2\Completed\Astronomy\obj\Debug\netstandard1.1\Astronomy.pdb
